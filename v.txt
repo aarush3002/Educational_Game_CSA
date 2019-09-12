@@ -1,0 +1,28 @@
+if(up == true & left == true)
+        {
+            turn(-80);
+            removeTouching(brick.class);
+            down = true;
+            up = false;
+        }
+        if(up == true & right == true)
+        {
+            turn(80);
+            removeTouching(brick.class);
+            down = true;
+            up = false;
+        }
+        if(down == true & left == true)
+        {
+            turn(83);
+            removeTouching(brick.class);
+            down = false;
+            up = true;
+        }
+        if(down == true & right == true)
+        {
+            turn(-83);
+            removeTouching(brick.class);
+            down = false;
+            up = true;
+        }

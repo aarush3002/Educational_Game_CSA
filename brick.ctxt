@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=brick
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ brick\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Does\ nothing\r\n
+comment2.params=green
+comment2.target=brick(java.lang.String)
+comment2.text=\r\n\ This\ sets\ the\ image\ for\ the\ arrays\ in\ able\ for\ the\ bricks\ to\ spawn\ in\r\n
+numComments=3

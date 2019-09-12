@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ball
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ball\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ball()
+comment1.text=\r\n\ Sets\ all\ of\ the\ booleans\ to\ fit\ the\ direction\ the\ ball\ is\ going\ to\ launch\ in\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ This\ calls\ the\ other\ methods\ and\ launches\ the\ ball\ when\ space\ is\ pressed\r\n
+comment3.params=
+comment3.target=void\ music()
+comment3.text=\r\n\ As\ long\ as\ the\ game\ is\ running,\ the\ music\ will\ loop\ play\r\n\ when\ the\ player\ dies,\ the\ music\ stops\ as\ well\ as\ the\ scenario\r\n
+comment4.params=
+comment4.target=void\ move()
+comment4.text=\r\n\ Sets\ the\ directions\ of\ the\ ball\ so\ whenever\ it\ hits\ a\ side\r\n\ of\ the\ wall,\ it\ will\ rotate\ in\ a\ specific\ direction\r\n
+comment5.params=
+comment5.target=void\ paddle()
+comment5.text=\r\n\ Whenever\ the\ ball\ hits\ the\ paddle,\ depending\ on\ the\ direction\r\n\ it\ should\ rotate\ in\ a\ specific\ way\ whenever\ it\ hits\r\n
+comment6.params=
+comment6.target=void\ brick()
+comment6.text=\r\n\ Whatever\ direction\ it\ is\ going\ in,\ it\ will\ destroy\ and\ bounce\ off\ of\r\n\ the\ brick.\ This\ also\ plays\ sound\ effects\ and\ chances\ true\ and\ false\ values\r\n
+numComments=7
