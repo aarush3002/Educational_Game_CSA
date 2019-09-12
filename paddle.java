@@ -15,6 +15,7 @@ public class paddle extends Actor
     {
         move();
     }    
+
     /**
      * Basic left to right movement
      */
@@ -22,11 +23,12 @@ public class paddle extends Actor
     {
         if(Greenfoot.isKeyDown("a"))
         {
-          move(-6);   
+            move(-6);   
         }
         if(Greenfoot.isKeyDown("d"))
         {
-          move(6);   
+            move(6);   
         }
     }
+    
 }

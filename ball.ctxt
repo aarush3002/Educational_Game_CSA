@@ -19,4 +19,6 @@ comment5.text=\r\n\ Whenever\ the\ ball\ hits\ the\ paddle,\ depending\ on\ the\
 comment6.params=
 comment6.target=void\ brick()
 comment6.text=\r\n\ Whatever\ direction\ it\ is\ going\ in,\ it\ will\ destroy\ and\ bounce\ off\ of\r\n\ the\ brick.\ This\ also\ plays\ sound\ effects\ and\ chances\ true\ and\ false\ values\r\n
-numComments=7
+comment7.params=
+comment7.target=void\ reset()
+numComments=8
