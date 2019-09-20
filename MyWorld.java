@@ -9,7 +9,7 @@ import java.util.*;
 public class MyWorld extends greenfoot.World
 {
     
-    private String[] bricks =
+    public String[] bricks =
     {"actinide.PNG", "aluminum.PNG", "americium.PNG", "antimony.PNG", "argon.PNG", "arsenic.PNG", "astatine.PNG", "barium.PNG", "berkelium.PNG", "beryllium.PNG", "bismuth.PNG", "bohrium.PNG", "boron.PNG", "bromine.PNG", "cadmium.PNG", "caesium.PNG", "calcium.PNG", "californium.PNG", "carbon.PNG", "cerium.PNG", "chlorine.PNG", "chromium.PNG", "cobalt.PNG", "copernicium.PNG", "copper.PNG", "curium.PNG", "darmstadtium.PNG", "dubnium.PNG", "dysprosium.PNG", "einsteinium.PNG", "erbium.PNG", "europium.PNG", "fermium.PNG", "fluorine.PNG", "francium.PNG", "gadolinum.PNG", "gallium.PNG", "germanium.PNG", "gold.PNG", "hafnium.PNG", "hassium.PNG", "helium.PNG", "holmium.PNG", "hydrogen.PNG", "indium.PNG", "iodine.PNG", "iridium.PNG", "iron.PNG", "krypton.PNG", "lanthanide.PNG", "lawrencium.PNG", "lead.PNG", "lithium.PNG", "lutetium.PNG", "magnesium.PNG", "manganese.PNG", "meitnerium.PNG", "mendelevium.PNG", "mercury.PNG", "molybdenum.PNG", "neodymium.PNG", "neon.PNG", "neptunium.PNG", "nickel.PNG", "niobium.PNG", "nitrogen.PNG", "nobelium.PNG", "osmium.PNG", "oxygen.PNG", "palladium.PNG", "phosphorus.PNG", "platinum.PNG", "plutonium.PNG", "polonium.PNG", "potassium.PNG", "praseodymium.PNG", "promethium.PNG", "protactinium.PNG", "radium.PNG", "radon.PNG", "rhenium.PNG", "rhodium.PNG", "roentgenium.PNG", "rubidium.PNG", "ruthenium.PNG", "rutherfordium.PNG", "samarium.PNG", "scandium.PNG", "seaborgium.PNG", "selenium.PNG", "silicon.PNG", "silver.PNG", "sodium.PNG", "strontium.PNG", "sulfur.PNG", "tantalum.PNG", "technetium.PNG", "tellurium.PNG", "terbium.PNG", "thallium.PNG", "thorium.PNG", "thulium.PNG", "tin.PNG", "titanium.PNG", "tungsten.PNG", "ununaquadium.PNG", "ununhexium.PNG", "ununoctium.PNG", "ununpentium.PNG", "ununseptium.PNG", "ununtrium.PNG", "uranium.PNG", "vanadium.PNG", "xenon.PNG", "ytterbium.PNG", "yttrium.PNG", "zinc.PNG", "zirconium.PNG"}
 ;
     /**
@@ -103,5 +103,6 @@ public class MyWorld extends greenfoot.World
         //                 distance apart ^ xside^ yside^
     }
     */
+   
 }
 }

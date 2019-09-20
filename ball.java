@@ -1,5 +1,5 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
-
+import java.util.*;
 /**
  * Write a description of class ball here.
  * 
@@ -184,10 +184,38 @@ public void brick()
 {
     if(isTouching(brick.class ))
     {
-        gameend = gameend +1;
+        //for (int i = 0; i < 56; i++) {
+        Actor brick = getOneIntersectingObject(brick.class);
+        GreenfootImage elm = brick.getImage();
+        String a = elm.toString();
+        if(a.contains("aluminum.PNG")) {
+            String ans = Greenfoot.ask("What is the name of this element and what group does is belong to?");
+            if (ans.contains("aluminum") && ans.contains("post")) {
+                
+                gameend = gameend +1;
+                if(up == true & left == true) //if the ball is going up and left
+                {
+                    removeTouching(brick.class);
+                    turn(-80);
+                    Greenfoot.playSound("beep.mp3");
+                    down = true;
+                    up = false;
+                }
+                if(up == true & right == true) //if the ball is going up and right
+                {
+                    removeTouching(brick.class);
+                    turn(80);
+                    Greenfoot.playSound("beep.mp3");
+                    down = true;
+                    up = false;
+                }
+            } 
+               
+            }
+      
+        
         if(up == true & left == true) //if the ball is going up and left
         {
-            removeTouching(brick.class);
             turn(-80);
             Greenfoot.playSound("beep.mp3");
             down = true;
@@ -195,7 +223,6 @@ public void brick()
         }
         if(up == true & right == true) //if the ball is going up and right
         {
-            removeTouching(brick.class);
             turn(80);
             Greenfoot.playSound("beep.mp3");
             down = true;
@@ -203,7 +230,6 @@ public void brick()
         }
         if(down == true & left == true) //if the ball is going down and left
         {
-            removeTouching(brick.class);
             //turn(80);
             Greenfoot.playSound("beep.mp3");
             //down = false;
@@ -211,8 +237,6 @@ public void brick()
         }
         if(down == true & right == true) //if the ball is going down and right
         {
-            
-            removeTouching(brick.class);
             //turn(-80);
             Greenfoot.playSound("beep.mp3");
             //down = false;
@@ -233,6 +257,7 @@ public void brick()
             MyWorld myWorld = (MyWorld) getWorld();
             myWorld.win();
         }
+    }
 }
 }
-}
+
