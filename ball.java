@@ -204,13 +204,19 @@ public void brick()
         if(down == true & left == true) //if the ball is going down and left
         {
             removeTouching(brick.class);
+            //turn(80);
             Greenfoot.playSound("beep.mp3");
+            //down = false;
+            //up = true;
         }
         if(down == true & right == true) //if the ball is going down and right
         {
             
             removeTouching(brick.class);
+            //turn(-80);
             Greenfoot.playSound("beep.mp3");
+            //down = false;
+            //up = true;
         }
         if(gameend >= 25) //attempt one for trying to win the game
         //also this calls the "win" method from the world class
