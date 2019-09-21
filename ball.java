@@ -208,7 +208,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -216,7 +216,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -225,14 +225,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -249,7 +249,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -257,7 +257,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -266,14 +266,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -290,7 +290,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -298,7 +298,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -307,14 +307,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -331,7 +331,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -339,7 +339,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -348,14 +348,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -372,7 +372,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -380,7 +380,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -389,14 +389,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -413,7 +413,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -421,7 +421,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -430,14 +430,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -454,7 +454,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -462,7 +462,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -471,14 +471,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -495,7 +495,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -503,7 +503,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -512,14 +512,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -536,7 +536,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -544,7 +544,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -553,14 +553,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -577,7 +577,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -585,7 +585,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -594,14 +594,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -618,7 +618,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -626,7 +626,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -635,14 +635,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -659,7 +659,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -667,7 +667,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -676,14 +676,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -700,7 +700,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -708,7 +708,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -717,14 +717,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -741,7 +741,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -749,7 +749,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -758,14 +758,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -782,7 +782,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -790,7 +790,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -799,14 +799,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -823,7 +823,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -831,7 +831,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -840,14 +840,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -864,7 +864,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -872,7 +872,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -881,14 +881,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -905,7 +905,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -913,7 +913,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -922,14 +922,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -946,7 +946,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -954,7 +954,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -963,14 +963,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -987,7 +987,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -995,7 +995,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1004,14 +1004,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1028,7 +1028,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -1036,7 +1036,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -1045,14 +1045,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -1069,7 +1069,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1077,7 +1077,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1086,14 +1086,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1110,7 +1110,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1118,7 +1118,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1127,14 +1127,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1151,7 +1151,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1159,7 +1159,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1168,14 +1168,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1192,7 +1192,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1200,7 +1200,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1209,14 +1209,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1233,7 +1233,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1241,7 +1241,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1250,14 +1250,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1274,7 +1274,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1282,7 +1282,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1291,14 +1291,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1315,7 +1315,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1323,7 +1323,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1332,14 +1332,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1356,7 +1356,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1364,7 +1364,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1373,14 +1373,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1397,7 +1397,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1405,7 +1405,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1414,14 +1414,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1438,7 +1438,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1446,7 +1446,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1455,14 +1455,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1479,7 +1479,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1487,7 +1487,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1496,14 +1496,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1520,7 +1520,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1528,7 +1528,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1537,14 +1537,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -1561,7 +1561,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -1569,7 +1569,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -1578,14 +1578,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1602,7 +1602,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -1610,7 +1610,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -1619,14 +1619,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -1643,7 +1643,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1651,7 +1651,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1660,14 +1660,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1684,7 +1684,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1692,7 +1692,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1701,14 +1701,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1725,7 +1725,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -1733,7 +1733,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -1742,14 +1742,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -1766,7 +1766,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1774,7 +1774,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1783,14 +1783,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1807,7 +1807,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1815,7 +1815,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1824,14 +1824,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1848,7 +1848,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1856,7 +1856,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1865,14 +1865,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1889,7 +1889,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -1897,7 +1897,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -1906,14 +1906,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.mp3");
                         down = true;
                         up = false;
                     }
@@ -1930,7 +1930,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -1938,7 +1938,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1947,14 +1947,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -1971,7 +1971,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -1979,7 +1979,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -1988,14 +1988,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -2012,7 +2012,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -2020,7 +2020,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -2029,14 +2029,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -2053,7 +2053,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -2061,7 +2061,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -2070,14 +2070,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -2094,7 +2094,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2102,7 +2102,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2111,14 +2111,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2135,7 +2135,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2143,7 +2143,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2152,14 +2152,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2176,7 +2176,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -2184,7 +2184,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -2193,14 +2193,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -2217,7 +2217,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2225,7 +2225,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2234,14 +2234,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2258,7 +2258,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2266,7 +2266,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2275,14 +2275,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2299,7 +2299,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2307,7 +2307,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2316,14 +2316,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2340,7 +2340,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -2348,7 +2348,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -2357,14 +2357,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -2381,7 +2381,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2389,7 +2389,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2398,14 +2398,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2422,7 +2422,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -2430,7 +2430,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -2439,14 +2439,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -2463,7 +2463,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2471,7 +2471,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2480,14 +2480,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2504,7 +2504,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2512,7 +2512,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2521,14 +2521,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2545,7 +2545,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2553,7 +2553,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2562,14 +2562,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2586,7 +2586,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2594,7 +2594,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2603,14 +2603,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2627,7 +2627,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2635,7 +2635,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2644,14 +2644,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2668,7 +2668,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2676,7 +2676,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2685,14 +2685,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2709,7 +2709,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -2717,7 +2717,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -2726,14 +2726,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -2750,7 +2750,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2758,7 +2758,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2767,14 +2767,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2791,7 +2791,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2799,7 +2799,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2808,14 +2808,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2832,7 +2832,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2840,7 +2840,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2849,14 +2849,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2873,7 +2873,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -2881,7 +2881,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -2890,14 +2890,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -2914,7 +2914,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2922,7 +2922,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2931,14 +2931,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2955,7 +2955,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2963,7 +2963,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2972,14 +2972,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -2996,7 +2996,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -3004,7 +3004,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -3013,14 +3013,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -3037,7 +3037,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3045,7 +3045,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3054,14 +3054,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3078,7 +3078,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -3086,7 +3086,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -3095,14 +3095,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -3119,7 +3119,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3127,7 +3127,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3136,14 +3136,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3160,7 +3160,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3168,7 +3168,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3177,14 +3177,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3201,7 +3201,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3209,7 +3209,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3218,14 +3218,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3242,7 +3242,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -3250,7 +3250,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -3259,14 +3259,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -3283,7 +3283,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3291,7 +3291,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3300,14 +3300,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3324,7 +3324,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3332,7 +3332,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3341,14 +3341,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3365,7 +3365,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3373,7 +3373,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3382,14 +3382,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3406,7 +3406,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -3414,7 +3414,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -3423,14 +3423,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -3447,7 +3447,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -3455,7 +3455,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -3464,14 +3464,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -3488,7 +3488,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3496,7 +3496,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3505,14 +3505,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3529,7 +3529,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3537,7 +3537,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3546,14 +3546,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3570,7 +3570,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3578,7 +3578,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3587,14 +3587,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3611,7 +3611,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -3619,7 +3619,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -3628,14 +3628,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -3652,7 +3652,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3660,7 +3660,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3669,14 +3669,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3693,7 +3693,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3701,7 +3701,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3710,14 +3710,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3734,7 +3734,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3742,7 +3742,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3751,14 +3751,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3775,7 +3775,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3783,7 +3783,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3792,14 +3792,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3816,7 +3816,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3824,7 +3824,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3833,14 +3833,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3857,7 +3857,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -3865,7 +3865,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -3874,14 +3874,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -3898,7 +3898,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -3906,7 +3906,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -3915,14 +3915,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -3939,7 +3939,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3947,7 +3947,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3956,14 +3956,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -3980,7 +3980,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -3988,7 +3988,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -3997,14 +3997,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -4021,7 +4021,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -4029,7 +4029,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -4038,14 +4038,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("blast.wav");
                         down = true;
                         up = false;
                     }
@@ -4062,7 +4062,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -4070,7 +4070,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -4079,14 +4079,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -4103,7 +4103,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4111,7 +4111,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4120,14 +4120,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4144,7 +4144,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4152,7 +4152,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4161,14 +4161,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4185,7 +4185,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -4193,7 +4193,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -4202,14 +4202,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -4226,7 +4226,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4234,7 +4234,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4243,14 +4243,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4267,7 +4267,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4275,7 +4275,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4284,14 +4284,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4308,7 +4308,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4316,7 +4316,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4325,14 +4325,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4349,7 +4349,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4357,7 +4357,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4366,14 +4366,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4390,7 +4390,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4398,7 +4398,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4407,14 +4407,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4431,7 +4431,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4439,7 +4439,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4448,14 +4448,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4472,7 +4472,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4480,7 +4480,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4489,14 +4489,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4513,7 +4513,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4521,7 +4521,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4530,14 +4530,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4554,7 +4554,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4562,7 +4562,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4571,14 +4571,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4595,7 +4595,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -4603,7 +4603,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -4612,14 +4612,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -4636,7 +4636,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4644,7 +4644,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4653,14 +4653,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4677,7 +4677,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -4685,7 +4685,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -4694,14 +4694,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -4718,7 +4718,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4726,7 +4726,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4735,14 +4735,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.mp3");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4759,7 +4759,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4767,7 +4767,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4776,14 +4776,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4800,7 +4800,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4808,7 +4808,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4817,14 +4817,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4841,7 +4841,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -4849,7 +4849,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -4858,14 +4858,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("woosh.wav");
                         down = true;
                         up = false;
                     }
@@ -4882,7 +4882,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4890,7 +4890,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4899,14 +4899,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4923,7 +4923,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4931,7 +4931,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4940,14 +4940,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4964,7 +4964,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4972,7 +4972,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -4981,14 +4981,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -5005,7 +5005,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -5013,7 +5013,7 @@ public void brick()
                     {
                         removeTouching(brick.class);
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -5022,14 +5022,14 @@ public void brick()
                     if(up == true & left == true) //if the ball is going up and left
                     {
                         turn(-80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
                     if(up == true & right == true) //if the ball is going up and right
                     {
                         turn(80);
-                        Greenfoot.playSound("beep.mp3");
+                        Greenfoot.playSound("clank.wav");
                         down = true;
                         up = false;
                     }
@@ -5042,7 +5042,7 @@ public void brick()
         if(up == true & left == true) //if the ball is going up and left
         {
             turn(-80);
-            Greenfoot.playSound("beep.mp3");
+            Greenfoot.playSound("x");
             down = true;
             up = false;
         }
