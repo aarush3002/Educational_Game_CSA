@@ -3,16 +3,16 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * Write a description of class gameover here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Yash Raj Singh, Aarush Aitha, Yuvraj Khullar, Zuhair Jafri
+ * @version 2.0
  */
 public class gameover extends Actor
 {
     /**
-     * Nothing is in here
+     * Nothing
      */
-    public void act() 
+    /*public void act() 
     {
         // Add your action code here.
-    }    
+    }*/    
 }

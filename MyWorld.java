@@ -3,8 +3,8 @@ import java.util.*;
 /**
  * Write a description of class MyWorld here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Yash Raj Singh, Aarush Aitha, Yuvraj Khullar, Zuhair Jafri
+ * @version 2.0
  */
 public class MyWorld extends greenfoot.World
 {

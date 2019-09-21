@@ -1,19 +1,19 @@
 #BlueJ class context
 comment0.target=MyWorld
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment0.text=\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\n\ \n\ @author\ Yash\ Raj\ Singh,\ Aarush\ Aitha,\ Yuvraj\ Khullar,\ Zuhair\ Jafri\n\ @version\ 2.0\n
 comment1.params=
 comment1.target=MyWorld()
-comment1.text=\r\n\ This\ just\ calls\ the\ methods\ as\ well\ as\ creates\ the\ world\r\n\ \r\n
+comment1.text=\n\ This\ just\ calls\ the\ methods\ as\ well\ as\ creates\ the\ world\n\ \n
 comment2.params=
 comment2.target=void\ populate()
-comment2.text=\r\n\ Spawns\ in\ the\ instances\ so\ the\ game\ can\ function\ properly\r\n
+comment2.text=\n\ Spawns\ in\ the\ instances\ so\ the\ game\ can\ function\ properly\n
 comment3.params=
 comment3.target=void\ win()
-comment3.text=\r\n\ If\ you\ hit\ all\ the\ bricks,\ you\ win\!\r\n
+comment3.text=\n\ If\ you\ hit\ all\ the\ bricks,\ you\ win\!\n
 comment4.params=
 comment4.target=void\ lose()
-comment4.text=\r\n\ if\ the\ ball\ gets\ past\ the\ paddle,\ you\ lose\!\r\n
+comment4.text=\n\ if\ the\ ball\ gets\ past\ the\ paddle,\ you\ lose\!\n
 comment5.params=
 comment5.target=void\ brickSpawn()
-comment5.text=\r\n\ These\ spawn\ the\ Green,\ Yellow,\ Orange,\ and\ Red\ bricks\ into\ the\ world\r\n\ they\ use\ loops\ in\ able\ for\ them\ to\ spawn\ in\r\n
+comment5.text=\n\ These\ spawn\ the\ Green,\ Yellow,\ Orange,\ and\ Red\ bricks\ into\ the\ world\n\ they\ use\ loops\ in\ able\ for\ them\ to\ spawn\ in\n
 numComments=6
