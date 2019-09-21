@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=ball
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ ball\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ball\ here.\r\n\ \r\n\ @author\ Yash\ Raj\ Singh,\ Aarush\ Aitha,\ Yuvraj\ Khullar,\ Zuhair\ Jafri\r\n\ @version\ 2.0\r\n
 comment1.params=
 comment1.target=ball()
 comment1.text=\r\n\ Sets\ all\ of\ the\ booleans\ to\ fit\ the\ direction\ the\ ball\ is\ going\ to\ launch\ in\r\n
@@ -18,5 +18,5 @@ comment5.target=void\ paddle()
 comment5.text=\r\n\ Whenever\ the\ ball\ hits\ the\ paddle,\ depending\ on\ the\ direction\r\n\ it\ should\ rotate\ in\ a\ specific\ way\ whenever\ it\ hits\r\n
 comment6.params=
 comment6.target=void\ brick()
-comment6.text=\r\n\ Whatever\ direction\ it\ is\ going\ in,\ it\ will\ destroy\ and\ bounce\ off\ of\r\n\ the\ brick.\ This\ also\ plays\ sound\ effects\ and\ chances\ true\ and\ false\ values\r\n
+comment6.text=\r\n\ Whatever\ direction\ it\ is\ going\ in,\ it\ will\ destroy\ and\ bounce\ off\ of\r\n\ the\ brick.\ This\ also\ plays\ sound\ effects\ and\ chances\ true\ and\ false\ values\r\n\ \r\n\ Asks\ a\ question\ when\ an\ element\ is\ hit;\ the\ name\ of\ the\ element\ as\ well\ as\ its\ corresponding\r\n\ group.\ \r\n
 numComments=7

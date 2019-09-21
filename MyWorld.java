@@ -3,8 +3,8 @@ import java.util.*;
 /**
  * Write a description of class MyWorld here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Yash Raj Singh, Aarush Aitha, Yuvraj Khullar, Zuhair Jafri
+ * @version 2.0
  */
 public class MyWorld extends greenfoot.World
 {
@@ -31,14 +31,14 @@ public class MyWorld extends greenfoot.World
         
         addObject(new paddle(),350, 450);
         addObject(new ball(),350, 420);
-        addObject(new titleScreen(),350, 250);
+        addObject(new titleScreen(),350, 243);
     }
     /**
      * If you hit all the bricks, you win!
      */
     public void win()
     {
-        addObject(new winScreen(),350, 250);
+        addObject(new winScreen(),353, 263);
         Greenfoot.stop();
     }
     /**
