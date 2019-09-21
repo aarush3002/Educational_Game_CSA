@@ -3,8 +3,8 @@ import java.util.*;
 /**
  * Write a description of class ball here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Yash Raj Singh, Aarush Aitha, Yuvraj Khullar, Zuhair Jafri
+ * @version 2.0
  */
 public class ball extends Actor
 {
@@ -179,6 +179,9 @@ public class ball extends Actor
 /**
  * Whatever direction it is going in, it will destroy and bounce off of
  * the brick. This also plays sound effects and chances true and false values
+ * 
+ * Asks a question when an element is hit; the name of the element as well as its corresponding
+ * group. 
  */
 public void brick()
 {

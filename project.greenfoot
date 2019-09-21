@@ -1,5 +1,5 @@
 #Greenfoot properties
-#Fri Sep 20 19:23:05 PDT 2019
+#Fri Sep 20 21:30:58 PDT 2019
 target7.naviview.expanded=false
 target4.type=ClassTarget
 class.gameover.image=gameover.png
@@ -18,7 +18,7 @@ target4.name=brick
 target4.typeParameters=
 readme.width=47
 class.ball.image=ball I hope.png
-editor.fx.0.width=108
+editor.fx.0.width=710
 target1.height=50
 target5.type=ClassTarget
 target3.typeParameters=
@@ -39,9 +39,9 @@ dependency5.from=MyWorld
 dependency2.to=brick
 target1.width=80
 dependency5.type=UsesDependency
-editor.fx.0.y=471
+editor.fx.0.y=125
 target2.typeParameters=
-editor.fx.0.x=0
+editor.fx.0.x=477
 dependency3.to=paddle
 target3.showInterface=false
 target6.name=paddle
@@ -88,14 +88,14 @@ target2.type=ClassTarget
 target2.y=0
 target2.x=0
 class.MyWorld.superclass=greenfoot.World
-mainWindow.y=192
-mainWindow.x=124
+mainWindow.y=60
+mainWindow.x=65
 target6.typeParameters=
 dependency1.from=ball
 target5.width=80
 class.paddle.image=Paddle.png
 target1.y=0
-editor.fx.0.height=329
+editor.fx.0.height=629
 target1.x=0
 dependency1.type=UsesDependency
 readme.height=58
